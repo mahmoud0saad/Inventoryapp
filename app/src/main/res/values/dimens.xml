@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="right_sale_btn_16">16dp</dimen>
+    <dimen name="width_image_empty">200dp</dimen>
+    <dimen name="hight_image_empty">200dp</dimen>
+    <dimen name="size_text_empty_list">22sp</dimen>
+    <dimen name="hight_spinner">45dp</dimen>
+</resources>

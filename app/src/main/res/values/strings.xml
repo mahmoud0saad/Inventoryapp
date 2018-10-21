@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Inventory app 2</string>
+    <string name="product_name_text_view">Product Name</string>
+    <string name="price_text_view">Price</string>
+    <string name="amount_text_view">amount</string>
+    <string name="sale_button">sale</string>
+    <string name="supplier_name_text_view">Supplier Name</string>
+    <string name="supplier_phone_text_view">Supplier phone</string>
+    <string name="contact_phone_button">Contact phone</string>
+    <string name="supplier_detail">Supplier detail</string>
+    <string name="action_save_insert">save</string>
+    <string name="text_empty_layout">please enter Products</string>
+    <string name="toast_attention_null_values">input the correct information</string>
+    <string name="toast_insert_done">insert done</string>
+    <string name="toast_update_done">update done</string>
+    <string name="price_text">price :</string>
+    <string name="insert_label">insert</string>
+    <string name="edit_label">edit</string>
+    <string name="message_delete_alert">are you sure delete pet</string>
+    <string name="delete_button_positive">delete product</string>
+    <string name="toast_message_delete_faile">delete failed</string>
+    <string name="toast_message_delete_done">delete success</string>
+    <string name="delete_button_negative">cancel Product</string>
+    <string name="name_of_text_view">name :</string>
+</resources>
